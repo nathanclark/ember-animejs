@@ -1,6 +1,6 @@
 {
   "name": "ember-animejs2",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "An Ember.js wrapper for the animation library anime.js for 2.2.*",
   "keywords": [
     "ember-addon"
