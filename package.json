@@ -1,7 +1,7 @@
 {
-  "name": "ember-animejs",
+  "name": "ember-animejs2",
   "version": "0.0.3",
-  "description": "An Ember.js wrapper for the animation library anime.js",
+  "description": "An Ember.js wrapper for the animation library anime.js for 2.2.*",
   "keywords": [
     "ember-addon"
   ],
@@ -11,7 +11,7 @@
     "doc": "doc",
     "test": "tests"
   },
-  "repository": "https://github.com/null-null-null/ember-animejs",
+  "repository": "https://github.com/nathanclark/ember-animejs",
   "scripts": {
     "build": "ember build",
     "start": "ember server",
